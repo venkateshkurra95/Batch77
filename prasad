@@ -59,3 +59,26 @@ git status
 git add file-name
 git commit -m "label"
 git push
+
+mkdir dir-name
+ls
+cd dir-name
+touch f1 f2 f3
+cd ..
+git status
+git add .
+git commit -m "sample dir"
+git push
+
+=================================
+git clone https://github.com/polarapu/Batch77.git
+ls
+cd Batch77
+ls
+touch name
+git status
+git add .
+git status
+git commit -m "label"
+git status
+git push
