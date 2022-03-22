@@ -1,0 +1,61 @@
+git init
+
+git config --global user.name "Polarapu Prasad"
+git config --global user.email "devopstraining2015@gmail.com"
+
+git config --list
+
+git config --global --unset user.name 
+git config --global --unset user.email
+
+
+------------------
+touch file1
+ls
+git status
+git add file1
+git status
+git commit -m "lable" file1
+git status
+git log
+git show cid
+
+------------
+touch file2 file3 file4 file5
+ls
+git status
+git add file2 file3 file4 file5
+or
+git add .
+or
+git add *
+or
+git add -A
+
+git status
+
+git commit -m "label" 
+git log
+git show cid
+
+-----------------------------------
+git clone https://github.com/polarapu/Batch77.git
+ls
+cd Batch77
+
+touch file1
+ls
+git status
+git add file1
+git status
+git commit -m "lable" file1
+git status
+git log
+git show cid
+git push
+
+rm file-name  ( to deleted file)
+git status
+git add file-name
+git commit -m "label"
+git push
