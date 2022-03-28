@@ -82,7 +82,18 @@ git status
 git commit -m "label"
 git status
 git push
+
 Hello all, Test msg from trainer!
 Sample line1
 Test line1
-
+git branch
+git branch branch-name
+git branch
+git checkout branch-name
+git merge branch-name
+git cherry-pick cid  (single commit)
+git checkout -b branch-name  (create and checkout)
+git push origin branch-name  (push to central repo)
+git push pathofc-repo branch-name
+git branch -d branch-name (local delete)
+git push origin -d branch-name  (delete in central repo)
