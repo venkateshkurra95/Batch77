@@ -82,10 +82,8 @@ git status
 git commit -m "label"
 git status
 git push
-
-Hello all, Test msg from trainer!
-Sample line1
-Test line1
+Branch
+=======
 git branch
 git branch branch-name
 git branch
