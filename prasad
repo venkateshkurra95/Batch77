@@ -35,27 +35,40 @@ git add -A
 git status
 
 git commit -m "label" 
-git log
-git show cid
-
------------------------------------
-git clone https://github.com/polarapu/Batch77.git
-ls
+jfdjfjkdskfls
 cd Batch77
 
 touch file1
 ls
 git status
 git add file1
+git statusdgsadhjd
+git commit -m "labffffffffle" file1
+ push
+zdfjdsdsfksdf
+rm file-name fdddddddddd ( to deleted file)
+git statusDF
+git add file-name
+git commit -m "label"
+git push
+
+mkdir dir-name
+ls
+cd dir-name
+touch f1 f2 f3
+cd ..
 git status
-git commit -m "lable" file1
+git add .
+git commit -m "sample dir"
+git push
+
 git status
 git log
 git show cid
 git push
-
-rm file-name  ( to deleted file)
-git status
+zdfjdsdsfksdf
+rm file-name fdddddddddd ( to deleted file)
+git statusDF
 git add file-name
 git commit -m "label"
 git push
@@ -81,17 +94,10 @@ git add .
 git status
 git commit -m "label"
 git status
-git push
+fdddddddggit push
 Branch
 =======
 git branch
-git branch branch-name
-git branch
-git checkout branch-name
-git merge branch-name
-git cherry-pick cid  (single commit)
-git checkout -b branch-name  (create and checkout)
-git push origin branch-name  (push to central repo)
-git push pathofc-repo branch-name
-git branch -d branch-name (local delete)
-git push origin -d branch-name  (delete in central repo)
+git push ptdfjfofc-repo branch-name
+git branch -d bdfdfffranch-name (local delete)
+git push oadhasdjjadkanch-name  (delete in central repo)
